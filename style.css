@@ -1,0 +1,46 @@
+.blog1{
+    width: 40%;
+    margin-left: 50px;
+    display: inline-block;
+    text-align: justify;
+}
+.blog2{
+    width: 40%;
+    margin-left: 200px;
+    display: inline-block;
+}
+.blog2 img{
+    width: 350px;
+}
+.blog4{
+    width: 40%;
+    margin-left: 50px;
+    display: inline-block;
+    text-align: justify;
+}
+.blog3{
+    width: 40%;
+    margin-left: 200px;
+    display: inline-block;
+}
+.blog3 img{
+    width: 350px;
+}
+.sheet2{
+    margin-top: 100px;
+}
+.buy{
+background-color: brown;
+border: dotted yellow;
+size: 100px;
+}
+.gmail{
+    border:double;
+    margin-left: 35%;
+    border-color: brown;
+    background-color: blue;
+    width: 300px;
+    height: 100px;
+    padding-top: 80px;
+    padding-left: 50px;
+}
